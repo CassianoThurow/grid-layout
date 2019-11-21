@@ -1,1 +1,1 @@
-# gird-layout
+# grid-layout
